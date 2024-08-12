@@ -1,3 +1,22 @@
+Connected to MongoDB with Mongoose. 
+    - Please prepare the .env 
+    - Check the configurations on your mongodb driver
+Manual Login and Registration Form
+Next Auth
+    - Provider
+        - GitHub, not yet updated the URL in the github config settings
+With user page protection
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
