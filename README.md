@@ -1,3 +1,5 @@
+Business Logic
+
 Connected to MongoDB with Mongoose. 
     - Please prepare the .env 
     - Check the configurations on your mongodb driver
@@ -6,9 +8,6 @@ Next Auth
     - Provider
         - GitHub, not yet updated the URL in the github config settings
 With user page protection
-
-
-
 
 
 
